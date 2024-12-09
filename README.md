@@ -16,12 +16,10 @@ Create container with mySQL database and create volume “app-data” with path 
 ### ~Second step~   ~WEB Application~
 
 Create container with web application “todoapp” :
-
-
 #### docker run -d -p 8080:8080 --name todoapp-2.0.0 trinida/todoapp:2.0.0
-
-##  [call application](http://127.0.0.1:8080)
-##  [how it work](./working_app.png)
+## [~My repo~](https://hub.docker.com/r/trinida)
+##  [~call application~](http://127.0.0.1:8080)
+##  [~how it work~](./working_app.png)
 
 
 ## Explore
