@@ -71,9 +71,9 @@ DATABASES = {
             'ENGINE': 'mysql.connector.django',
             'NAME': 'app_db',
             'USER': 'app_user',
-            'PASSWORD': '1234',
+            'PASSWORD': '0987654321',
             'HOST': '172.17.0.2',
-            'PORT': '3306',  # Leave this empty to use the default MySQL port (3306).
+            'PORT': '',  # Leave this empty to use the default MySQL port (3306).
     }
 }
 
